@@ -1,0 +1,1 @@
+qtec_disk.sh add check uptime
